@@ -7,12 +7,12 @@ I'm a Software Developer from the US
   
 - 🧑‍🎓 Studied [Computer Science](https://csds.gsu.edu/) at the Georgia State University, Georgia
   
-- 📱 Currently learning about the [Flutter](https://flutter.dev/development) and [React](https://react.dev/learn) framework
+- 📱 Currently learning about [React](https://react.dev/learn) and [NextJS](https://nextjs.org/)
 
 ## 📬 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/quantran131313)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/QT379)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qtrann1379)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/qtrann1379)
 
 ## 🛠️ Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
